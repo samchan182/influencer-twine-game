@@ -2,7 +2,7 @@
 
 **Interactive Narrative Game** built with [Twine](https://twinery.org/), exploring how social media design patterns shape attention, identity, and emotional well-being.
 
-![Overview Screenshot](Overview.png)
+![Overview Screenshot](overview.png)
 ---
 
 ## 🎮 Overview
