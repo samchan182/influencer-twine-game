@@ -1,7 +1,8 @@
-# Scroll Loop
+# Influencer
 
 **Interactive Narrative Game** built with [Twine](https://twinery.org/), exploring how social media design patterns shape attention, identity, and emotional well-being.
 
+![Overview Screenshot](overview.png)
 ---
 
 ## 🎮 Overview
@@ -41,12 +42,12 @@ Your choices determine how far you spiral into the feed—or how you break free.
 ## 🚀 Running Locally
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<your-username>/scroll-loop.git
+   git clone git@github.com:samchan182/influencer-twine-game.git
 
-2. Open index.html in any modern browser
-    ```
+2. Open index.html in any modern browser<br>
     To view online, visit:
-    https://influencer-twine-game.github.io/scroll-loop/
+    ```
+    https://github.com/samchan182/influencer-twine-game 
 
 ---
 
